@@ -33,8 +33,6 @@ Python &amp; ML 02 - Khóa học do HCMUT EE Machine Learning &amp; IoT Lab tổ
 
 ## Thực hiện
 ```
-Phạm Đức Thể
-
-Thể ~/~
+ ~/~
 ```
 
